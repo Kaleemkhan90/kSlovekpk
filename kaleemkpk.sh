@@ -1,27 +1,27 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
-##   Version 	: 	2.2
-##   Github 	: 	https://github.com/htr-tech
+##   $$$$$$$$$$$	
+##   $$$$$$$$$$$$$$$	
+##   $$$$$$$$$$$$$$$$$$$	
+##   $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 ##   THANKS TO :
-##   Aditya Shakya - https://github.com/adi1090x
-##   1RaY-1 - https://github.com/1RaY-1
-##   Moises Tapia - https://github.com/MoisesTapia
-##   TheLinuxChoice - https://twitter.com/linux_choice
-##   DarksecDevelopers  - https://github.com/DarksecDevelopers
-##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
-##   Võ Ngọc Bảo - https://github.com/vongocbao
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
+##   Aditya Shakya - KALEEM KHAN KPK KING
+##   1RaY-1 - MY NAME IS KHAN
+##   Moises Tapia - KHAN
+##   TheLinuxChoice - KPK KING
+##   DarksecDevelopers  - PATHAN
+##   Ignitetch  - PAKISTAN
+##   Võ Ngọc Bảo - MR KHAN
+##   Mustakim Ahmed - https://www.facebook.com/kaleemkhan
 
 
-## If you Copy Then Give the credits :)
+## If MY NAME IS KALEEM KHAN FORM PAKISTAN :)
 
 
 
 ##                   GNU GENERAL PUBLIC LICENSE
-##                    Version 3, 29 June 2007
+##                    Version 4. 2022
 ##
 ##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 ##    Everyone is permitted to copy and distribute verbatim copies
@@ -160,9 +160,9 @@ banner() {
 		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}      |_|                ${GREEN}Version : 4.4
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by KALEEM KHAN (tahmid.rayat)${WHITE}
 	EOF
 }
 
@@ -171,7 +171,7 @@ banner_small() {
 	cat <<- EOF
 		${BLUE}
 		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+		${BLUE}  ░▄▀░░█▀▀░█▀█░KALEEM░█░░▀▀█░█▀█░█▀▀░█▀▄
 		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
 	EOF
 }
@@ -303,10 +303,10 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
-		${GREEN}Version  ${RED}:  ${ORANGE}2.2
+		${GREEN}KALEEM   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}MAKER BOY   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN}Social  ${RED}:  ${CYAN} PAK BOY
+		${GREEN}Version  ${RED}:  ${ORANGE}4.4
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
 								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
